@@ -1,3 +1,3 @@
 # TOP-landing-page
 
-LIVE: https://wonswe.github.io/aesop-landing-page/
+LIVE: https://wonswe.github.io/pingu-landing-page/
